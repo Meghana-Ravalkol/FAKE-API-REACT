@@ -1,0 +1,41 @@
+.delete{
+    margin: 70px auto;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    gap: 10px;
+    border: 4px solid #3E2C26;
+}
+
+.delete form{
+    display: flex;
+    flex-direction: column;
+}
+
+.delete h2{
+    margin: 10px;
+    color: #3E2C26;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.delete label{
+    color: #3E2C26;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.delete input{
+    width: 200px;
+    margin: 20px auto;
+}
+
+#del-btn{
+    /* color: ; */
+    background-color: #3E2C26;
+    width: 100px;
+    border-radius: 10px;
+    
+}

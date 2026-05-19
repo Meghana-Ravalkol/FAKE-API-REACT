@@ -3,7 +3,6 @@ import {Link} from "react-router-dom"
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import './Navbar.css'
 import logo from './src/assets/logo1.png'
-
 function Navbar(){
     return (
         <div className="navbar">
